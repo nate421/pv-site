@@ -11,3 +11,4 @@ import {ROUTER_DIRECTIVES} from '@angular/router';
   ]
 })
 export class HomeComponent {}
+/** NATHAN IS TOALLY AWESOME */
